@@ -1,7 +1,10 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "list-view"
+    },
+    {
+      "path": "activity-lookup",
       "default": true
     }
   ],
